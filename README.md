@@ -1,7 +1,7 @@
 # Matheus Arrifano
 
 ▲ Desenvolvedor Fullstack apaixonado por transformar ideias em aplicações reais.  
-Atuo no desenvolvimento ponta a ponta — do back-end ao front-end — sempre buscando entregar soluções escaláveis, modernas e com foco na experiência do usuário.  
+Atuo no desenvolvimento ponta a ponta, do back-end ao front-end, sempre buscando entregar soluções escaláveis, modernas e com foco na experiência do usuário.  
 
 ➤ Atualmente, tenho trabalhado em integrações complexas com sistemas corporativos (TOTVS RM, Omie, Fluig) e em projetos próprios pela **Marte Desenvolvimento**, minha software house.  
 ✦ Sempre estudando novas arquiteturas, inteligência artificial e boas práticas de clean code.
